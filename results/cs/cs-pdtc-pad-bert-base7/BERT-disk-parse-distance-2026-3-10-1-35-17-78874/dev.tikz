@@ -1,0 +1,462 @@
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    |\& Daňový\& poradce\& | \\
+\end{deptext}
+\depedge{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Trápí\& vás\& daně\& ? \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Nevíte\& ,\& co\& kam\& započítat\& ? \\
+\end{deptext}
+\depedge{1}{5}{.}
+\depedge{3}{5}{.}
+\depedge{4}{5}{.}
+\depedge[edge style={red!60!}, edge below]{1}{5}{.}
+\depedge[edge style={red!60!}, edge below]{4}{5}{.}
+\depedge[edge style={red!60!}, edge below]{3}{5}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Zdá\& se\& vám\& ,\& že\& finanční\& úřad\& nepostupoval\& správně\& ? \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{1}{3}{.}
+\depedge{1}{8}{.}
+\depedge{5}{8}{.}
+\depedge{6}{7}{.}
+\depedge{7}{8}{.}
+\depedge{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{7}{8}{.}
+\depedge[edge style={red!60!}, edge below]{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{5}{7}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{1}{7}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Jsou\& vám\& nejasná\& některá\& ustanovení\& daňových\& zákonů\& ? \\
+\end{deptext}
+\depedge{1}{3}{.}
+\depedge{2}{3}{.}
+\depedge{3}{5}{.}
+\depedge{4}{5}{.}
+\depedge{5}{7}{.}
+\depedge{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{3}{5}{.}
+\depedge[edge style={red!60!}, edge below]{4}{5}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Je\& tu\& pro\& vás\& připravena\& rubrika\& Daňový\& poradce\& . \\
+\end{deptext}
+\depedge{1}{5}{.}
+\depedge{2}{5}{.}
+\depedge{3}{4}{.}
+\depedge{4}{5}{.}
+\depedge{5}{6}{.}
+\depedge{6}{8}{.}
+\depedge{7}{8}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\depedge[edge style={red!60!}, edge below]{6}{8}{.}
+\depedge[edge style={red!60!}, edge below]{2}{5}{.}
+\depedge[edge style={red!60!}, edge below]{4}{5}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{7}{8}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Vaše\& dotazy\& čekáme\& na\& adrese\& Českomoravského\& profitu\& . \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{3}{.}
+\depedge{3}{5}{.}
+\depedge{4}{5}{.}
+\depedge{5}{7}{.}
+\depedge{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{2}{5}{.}
+\depedge[edge style={red!60!}, edge below]{3}{7}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Silniční\& daň \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Máme\& zaměstnance\& ,\& které\& občas\& vysíláme\& na\& služební\& cestu\& . \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{6}{.}
+\depedge{4}{6}{.}
+\depedge{5}{6}{.}
+\depedge{6}{9}{.}
+\depedge{7}{9}{.}
+\depedge{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{7}{9}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\depedge[edge style={red!60!}, edge below]{6}{9}{.}
+\depedge[edge style={red!60!}, edge below]{2}{5}{.}
+\depedge[edge style={red!60!}, edge below]{4}{5}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Protože\& je\& ale\& v\& naší\& firmě\& několikanásobně\& více\& zaměstnanců\& než\& služebních\& vozidel\& ,\& musí\& v\& případě\& nouze\& jet\& vlastním\& autem\& . \\
+\end{deptext}
+\depedge{1}{6}{.}
+\depedge{2}{6}{.}
+\depedge{3}{14}{.}
+\depedge{4}{6}{.}
+\depedge{5}{6}{.}
+\depedge{6}{8}{.}
+\depedge{6}{14}{.}
+\depedge{7}{8}{.}
+\depedge{8}{9}{.}
+\depedge{8}{12}{.}
+\depedge{10}{12}{.}
+\depedge{11}{12}{.}
+\depedge{14}{16}{.}
+\depedge{14}{18}{.}
+\depedge{15}{16}{.}
+\depedge{16}{17}{.}
+\depedge{18}{20}{.}
+\depedge{19}{20}{.}
+\depedge[edge style={red!60!}, edge below]{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{14}{16}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{18}{19}{.}
+\depedge[edge style={red!60!}, edge below]{11}{12}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\depedge[edge style={red!60!}, edge below]{17}{18}{.}
+\depedge[edge style={red!60!}, edge below]{15}{16}{.}
+\depedge[edge style={red!60!}, edge below]{9}{12}{.}
+\depedge[edge style={red!60!}, edge below]{7}{9}{.}
+\depedge[edge style={red!60!}, edge below]{10}{11}{.}
+\depedge[edge style={red!60!}, edge below]{12}{14}{.}
+\depedge[edge style={red!60!}, edge below]{18}{20}{.}
+\depedge[edge style={red!60!}, edge below]{16}{17}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{3}{5}{.}
+\depedge[edge style={red!60!}, edge below]{4}{6}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Tím\& pádem\& máme\& problém\& se\& silniční\& daní\& . \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{3}{.}
+\depedge{3}{4}{.}
+\depedge{4}{7}{.}
+\depedge{5}{7}{.}
+\depedge{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{5}{7}{.}
+\depedge[edge style={red!60!}, edge below]{3}{5}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Víme\& ,\& že\& jste\& na\& podobný\& dotaz\& již\& odpovídal\& ,\& ale\& nevíme\& ,\& zda\& činnost\& ,\& kterou\& se\& zabýváme\& ,\& spadá\& do\& vámi\& uváděných\& příkladů\& . \\
+\end{deptext}
+\depedge{1}{9}{.}
+\depedge{1}{12}{.}
+\depedge{3}{9}{.}
+\depedge{4}{9}{.}
+\depedge{5}{7}{.}
+\depedge{6}{7}{.}
+\depedge{7}{9}{.}
+\depedge{8}{9}{.}
+\depedge{11}{12}{.}
+\depedge{12}{21}{.}
+\depedge{14}{21}{.}
+\depedge{15}{19}{.}
+\depedge{15}{21}{.}
+\depedge{17}{19}{.}
+\depedge{18}{19}{.}
+\depedge{21}{25}{.}
+\depedge{22}{25}{.}
+\depedge{23}{24}{.}
+\depedge{24}{25}{.}
+\depedge[edge style={red!60!}, edge below]{11}{12}{.}
+\depedge[edge style={red!60!}, edge below]{9}{12}{.}
+\depedge[edge style={red!60!}, edge below]{18}{19}{.}
+\depedge[edge style={red!60!}, edge below]{14}{15}{.}
+\depedge[edge style={red!60!}, edge below]{21}{23}{.}
+\depedge[edge style={red!60!}, edge below]{24}{25}{.}
+\depedge[edge style={red!60!}, edge below]{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{15}{19}{.}
+\depedge[edge style={red!60!}, edge below]{12}{19}{.}
+\depedge[edge style={red!60!}, edge below]{21}{22}{.}
+\depedge[edge style={red!60!}, edge below]{7}{9}{.}
+\depedge[edge style={red!60!}, edge below]{17}{19}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{23}{24}{.}
+\depedge[edge style={red!60!}, edge below]{1}{9}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{19}{21}{.}
+\depedge[edge style={red!60!}, edge below]{1}{4}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Váš\& problém\& vyřešila\& prosincová\& novela\& silniční\& daně\& ,\& ve\& které\& bylo\& zrušeno\& osvobození\& od\& silniční\& daně\& zaměstnaneckých\& vozidel\& . \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{3}{.}
+\depedge{3}{5}{.}
+\depedge{4}{5}{.}
+\depedge{5}{7}{.}
+\depedge{5}{12}{.}
+\depedge{6}{7}{.}
+\depedge{9}{10}{.}
+\depedge{10}{12}{.}
+\depedge{11}{12}{.}
+\depedge{12}{13}{.}
+\depedge{13}{16}{.}
+\depedge{14}{16}{.}
+\depedge{15}{16}{.}
+\depedge{16}{18}{.}
+\depedge{17}{18}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{12}{13}{.}
+\depedge[edge style={red!60!}, edge below]{17}{18}{.}
+\depedge[edge style={red!60!}, edge below]{15}{16}{.}
+\depedge[edge style={red!60!}, edge below]{11}{12}{.}
+\depedge[edge style={red!60!}, edge below]{4}{5}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{13}{14}{.}
+\depedge[edge style={red!60!}, edge below]{16}{17}{.}
+\depedge[edge style={red!60!}, edge below]{9}{10}{.}
+\depedge[edge style={red!60!}, edge below]{10}{12}{.}
+\depedge[edge style={red!60!}, edge below]{13}{15}{.}
+\depedge[edge style={red!60!}, edge below]{3}{7}{.}
+\depedge[edge style={red!60!}, edge below]{5}{12}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Za\& vozidla\& zaměstnanců\& užívaná\& pro\& pracovní\& účely\& platí\& silniční\& daň\& zaměstnavatel\& . \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{3}{.}
+\depedge{2}{4}{.}
+\depedge{2}{8}{.}
+\depedge{4}{7}{.}
+\depedge{5}{7}{.}
+\depedge{6}{7}{.}
+\depedge{8}{10}{.}
+\depedge{8}{11}{.}
+\depedge{9}{10}{.}
+\depedge[edge style={red!60!}, edge below]{7}{8}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{8}{11}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{6}{9}{.}
+\depedge[edge style={red!60!}, edge below]{4}{7}{.}
+\depedge[edge style={red!60!}, edge below]{8}{10}{.}
+\depedge[edge style={red!60!}, edge below]{5}{7}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Jiří\& Gebarowský \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Kontakt\& :\& J\& +\& G\& ,\& daňové\& poradenství\& ,\& Norská\& 12\& ,\& 101\& 00\& Praha\& 10\& ,\& tel\& .\& :\& (\& 02\& )\& 73\& 89\& 59 \\
+\end{deptext}
+\depedge{1}{5}{.}
+\depedge{3}{5}{.}
+\depedge{5}{8}{.}
+\depedge{5}{15}{.}
+\depedge{5}{18}{.}
+\depedge{7}{8}{.}
+\depedge{10}{11}{.}
+\depedge{10}{15}{.}
+\depedge{13}{16}{.}
+\depedge{14}{16}{.}
+\depedge{15}{16}{.}
+\depedge{18}{26}{.}
+\depedge{22}{26}{.}
+\depedge{24}{26}{.}
+\depedge{25}{26}{.}
+\depedge[edge style={red!60!}, edge below]{24}{25}{.}
+\depedge[edge style={red!60!}, edge below]{25}{26}{.}
+\depedge[edge style={red!60!}, edge below]{7}{8}{.}
+\depedge[edge style={red!60!}, edge below]{8}{10}{.}
+\depedge[edge style={red!60!}, edge below]{1}{8}{.}
+\depedge[edge style={red!60!}, edge below]{10}{15}{.}
+\depedge[edge style={red!60!}, edge below]{16}{18}{.}
+\depedge[edge style={red!60!}, edge below]{3}{5}{.}
+\depedge[edge style={red!60!}, edge below]{15}{16}{.}
+\depedge[edge style={red!60!}, edge below]{18}{24}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{14}{15}{.}
+\depedge[edge style={red!60!}, edge below]{10}{11}{.}
+\depedge[edge style={red!60!}, edge below]{18}{22}{.}
+\depedge[edge style={red!60!}, edge below]{13}{14}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Jsme\& kvalifikovaní\& pro\& Evropu\& ? \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{4}{.}
+\depedge{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{2}{4}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Nejvíce\& kritizují\& a\& rozčilují\& se\& neschopní\& -\& leví\& podnikatelé\& a\& jejich\& zaměstnanci \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{4}{.}
+\depedge{2}{6}{.}
+\depedge{3}{4}{.}
+\depedge{4}{5}{.}
+\depedge{6}{9}{.}
+\depedge{8}{9}{.}
+\depedge{9}{12}{.}
+\depedge{10}{12}{.}
+\depedge{11}{12}{.}
+\depedge[edge style={red!60!}, edge below]{2}{4}{.}
+\depedge[edge style={red!60!}, edge below]{4}{6}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{6}{8}{.}
+\depedge[edge style={red!60!}, edge below]{5}{6}{.}
+\depedge[edge style={red!60!}, edge below]{9}{12}{.}
+\depedge[edge style={red!60!}, edge below]{3}{4}{.}
+\depedge[edge style={red!60!}, edge below]{10}{12}{.}
+\depedge[edge style={red!60!}, edge below]{11}{12}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Pracovníci\& zahraničních\& firem\& působících\& v\& České\& republice\& často\& tvrdí\& ,\& že\& naši\& zaměstnanci\& nedosahují\& takových\& kvalit\& ,\& jaké\& potřebují\& . \\
+\end{deptext}
+\depedge{1}{3}{.}
+\depedge{1}{9}{.}
+\depedge{2}{3}{.}
+\depedge{3}{4}{.}
+\depedge{4}{7}{.}
+\depedge{5}{7}{.}
+\depedge{6}{7}{.}
+\depedge{8}{9}{.}
+\depedge{9}{14}{.}
+\depedge{11}{14}{.}
+\depedge{12}{13}{.}
+\depedge{13}{14}{.}
+\depedge{14}{16}{.}
+\depedge{15}{16}{.}
+\depedge{16}{19}{.}
+\depedge{18}{19}{.}
+\depedge[edge style={red!60!}, edge below]{8}{9}{.}
+\depedge[edge style={red!60!}, edge below]{13}{14}{.}
+\depedge[edge style={red!60!}, edge below]{1}{2}{.}
+\depedge[edge style={red!60!}, edge below]{14}{16}{.}
+\depedge[edge style={red!60!}, edge below]{7}{9}{.}
+\depedge[edge style={red!60!}, edge below]{9}{13}{.}
+\depedge[edge style={red!60!}, edge below]{11}{14}{.}
+\depedge[edge style={red!60!}, edge below]{14}{15}{.}
+\depedge[edge style={red!60!}, edge below]{12}{13}{.}
+\depedge[edge style={red!60!}, edge below]{16}{19}{.}
+\depedge[edge style={red!60!}, edge below]{18}{19}{.}
+\depedge[edge style={red!60!}, edge below]{2}{4}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\depedge[edge style={red!60!}, edge below]{4}{7}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{5}{7}{.}
+\end{dependency}
+
+
+\begin{dependency}[hide label, edge unit distance=.5ex]
+    \begin{deptext}[column sep=0.05cm]
+    Stejný\& názor\& má\& i\& řada\& našich\& soukromých\& podnikatelů\& . \\
+\end{deptext}
+\depedge{1}{2}{.}
+\depedge{2}{3}{.}
+\depedge{3}{5}{.}
+\depedge{4}{5}{.}
+\depedge{5}{8}{.}
+\depedge{6}{8}{.}
+\depedge{7}{8}{.}
+\depedge[edge style={red!60!}, edge below]{2}{3}{.}
+\depedge[edge style={red!60!}, edge below]{3}{5}{.}
+\depedge[edge style={red!60!}, edge below]{1}{3}{.}
+\depedge[edge style={red!60!}, edge below]{3}{8}{.}
+\depedge[edge style={red!60!}, edge below]{4}{5}{.}
+\depedge[edge style={red!60!}, edge below]{7}{8}{.}
+\depedge[edge style={red!60!}, edge below]{6}{7}{.}
+\end{dependency}
